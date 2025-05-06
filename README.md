@@ -52,9 +52,8 @@ main(){
 ```
 
 ## 效果
-<p align="center">
-  <a href="result_img/result_det.jpg"><img src="result_img/result_det.jpg" style="width:60%; height:60%;"/></a>
-</p>
-<p align="center">
-  <a href="result_img/result_seg.jpg"><img src="result_img/result_seg.jpg" style="width:60%; height:60%;"/></a>
+<p align="left">
+  <a href="result_img/result_det.jpg"><img src="result_img/result_det.jpg" style="width:40%; height:40%;"/></a>
+    <a href="result_img/result_seg.jpg"><img src="result_img/result_seg.jpg" style="width:40%; height:40%;"/></a>
+    <a href="result_img/result_keypoint.jpg"><img src="result_img/result_keypoint.jpg" style="width:40%; height:40%;"/></a>
 </p>
