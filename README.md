@@ -53,8 +53,8 @@ main(){
 
 ## 效果
 <p align="center">
-  <a href="result_img/bus_result.jpg"><img src="images/bus_result.jpg" style="width:60%; height:60%;"/></a>
+  <a href="result_img/result_det.jpg"><img src="result_img/result_det.jpg" style="width:60%; height:60%;"/></a>
 </p>
 <p align="center">
-  <a href="images/zidane_result.jpg"><img src="images/zidane_result.jpg" style="width:60%; height:60%;"/></a>
+  <a href="result_img/result_seg.jpg"><img src="result_img/result_seg.jpg" style="width:60%; height:60%;"/></a>
 </p>
